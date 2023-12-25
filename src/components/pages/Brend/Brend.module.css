@@ -1,0 +1,194 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.asos {
+  width: 100%;
+  height: auto;
+  
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.salom {
+  width: 100%;
+  height: 800px;
+  background-image: url("//images.ctfassets.net/aujcl8g9bu47/5Q8wBJcLv2gcAcKs8uqwUO/b23f4d97ac6420ed6058d71c091cd6a3/Tartine_Portraits-8463.jpg?w=2000&fm=jpg&fl=progressive&q=90");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+
+
+}
+
+.h1 {
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 10%;
+  font-size: 40px;
+
+}
+
+.h2 {
+  position: absolute;
+  margin-top: 35%;
+  margin-left: 10%;
+  font-size: 30px;
+
+}
+
+.box2 {
+  width: 100%;
+  height: 500px;
+  background-color: white;
+  padding: 70px 0;
+}
+.dudu{
+  margin-left: 30%;
+}
+.box3{
+  width: 100%;
+  height: 556px;
+  display: flex;
+  gap: 50px;
+}
+.q1{
+  width: 35%;
+  height: 556px;
+  background-image: url("//images.ctfassets.net/aujcl8g9bu47/cn4nJoZEswO0Qu80qEyuA/d58f30bb7236483d169559c9cd4bf4ad/chad-liz-drink-wine.jpg?w=1800&fm=jpg&fl=progressive&q=90");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.q2{
+  width: 65%;
+  height: 556px;
+  background-color: rgb(203, 205, 203);
+  background-image: url("//images.ctfassets.net/aujcl8g9bu47/5Z2WmOBwhqmiMMU0wO0Uwg/a569334203dda3569c2fdaabab2e6dfe/chad-turns-dough.jpg?w=1800&fm=jpg&fl=progressive&q=90");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box4{
+  width: 100%;
+  height: 700px;
+  background-color: white;
+  padding: 50px 0;
+}
+.q3{
+  width: 300px;
+  height: 200px;
+  font-size: 25px;
+  margin-left: 20%;
+}
+.q4{
+  width: 300px;
+  height: 200px;
+  font-size: 25px;
+  margin-left: 40%;
+
+}
+.q5{
+  width: 300px;
+  height: 200px;
+  font-size: 25px;
+  margin-left: 60%;
+
+}
+.box5{
+  width: 100%;
+  height: 750px;
+  background-color: white;
+}
+.soz{
+  padding: 50px 0;
+  width: 70%;
+  height: 700px;
+  margin-left: 25%;
+  font-size: 20px;
+}
+.box6{
+  width: 100%;
+  height: 556px;
+  display: flex;
+  gap: 20px;
+}
+.b1{
+  width: 60%;
+  height: 556px;
+  background-image:url("//images.ctfassets.net/aujcl8g9bu47/23iwNLgyWQM0gwMy4CgiOS/638153127df87247f81970beb7e291ec/manufactory-sf-127.jpg?w=1800&fm=jpg&fl=progressive&q=90");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.b2{
+  width: 40%;
+  height: 556px;
+  background-color: red;
+  background-image: url("//images.ctfassets.net/aujcl8g9bu47/3dEw2zQkAoCMWuAEiQW8qg/03e9dad38de54ab4d6a5a763f6521eed/fougasse.jpg?w=1800&fm=jpg&fl=progressive&q=90");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+.box7{
+  width: 100%;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.div{
+  width: 450px;
+  height: 400px;
+  background-color: black;
+  background-image: url("//images.ctfassets.net/aujcl8g9bu47/28gi5pw7uM0ysquMsq4Gqs/0c81120f954b40c8f915765291ba93b6/baked5.jpg?w=1800&fm=jpg&fl=progressive&q=90");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.div1{
+  width: 450px;
+  height: 400px;
+  background-color: pink;
+  background-image: url("//images.ctfassets.net/aujcl8g9bu47/4jsyTs5ZgQ4kyYWEok40WQ/1b9ccddf64df74ee21db0a7788c7dfcb/Espresso_Stock_Photo.jpg?w=1800&fm=jpg&fl=progressive&q=90");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.div3{
+  width: 460px;
+  height: 400px;
+  background-color: aqua;
+  background-image: url("//images.ctfassets.net/aujcl8g9bu47/UYB1OZUvccwkYCSQ4AwA0/1a83071e21ab76644431f643a4643d2d/chad-robertson--elisabeth-prueitt_21704114608_o.jpg?w=1800&fm=jpg&fl=progressive&q=90");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.box8{
+  width: 100%;
+  height: 400px;
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+.div4{
+  width: 66%;
+  height: 400px;
+  background-color: yellow;
+  background-image: url("//images.ctfassets.net/aujcl8g9bu47/1MmblEnmNC44kwsGKEseC2/066058794eb81f0a666ba56c2c17de8c/chad-coffee.jpg?w=1800&fm=jpg&fl=progressive&q=90");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.div6{
+  width: 33%;
+  height: 400px;
+  background-color: brown;
+  background-image: url("//images.ctfassets.net/aujcl8g9bu47/1vV3tYpZC8cWCS0iIcug8O/f54f33bce12f58f1d2f7eac7fa2b06e3/tartineinterior_6896841648_o.jpg?w=1800&fm=jpg&fl=progressive&q=90");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
